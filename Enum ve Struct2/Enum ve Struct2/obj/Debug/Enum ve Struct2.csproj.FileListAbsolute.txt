@@ -1,0 +1,7 @@
+C:\Users\mitha\source\repos\Enum ve Struct2\Enum ve Struct2\bin\Debug\Enum ve Struct2.exe.config
+C:\Users\mitha\source\repos\Enum ve Struct2\Enum ve Struct2\bin\Debug\Enum ve Struct2.exe
+C:\Users\mitha\source\repos\Enum ve Struct2\Enum ve Struct2\bin\Debug\Enum ve Struct2.pdb
+C:\Users\mitha\source\repos\Enum ve Struct2\Enum ve Struct2\obj\Debug\Enum ve Struct2.csproj.AssemblyReference.cache
+C:\Users\mitha\source\repos\Enum ve Struct2\Enum ve Struct2\obj\Debug\Enum ve Struct2.csproj.CoreCompileInputs.cache
+C:\Users\mitha\source\repos\Enum ve Struct2\Enum ve Struct2\obj\Debug\Enum ve Struct2.exe
+C:\Users\mitha\source\repos\Enum ve Struct2\Enum ve Struct2\obj\Debug\Enum ve Struct2.pdb
