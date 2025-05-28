@@ -1,2 +1,2 @@
-# CSharp-32.Proje
+# C#-32.Proje
 Enum ve Struct2
